@@ -1,4 +1,5 @@
 ### Hi there 👋
+<br></br>
 
 I'm Jason, a self-taught Data Analyst, Python programmer and SQL enthusiast from Atlanta, GA.
 <!--
