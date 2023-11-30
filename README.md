@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Jason, a self-taught Data Analyst, Python programmer and SQL enthusiast from Atlanta, GA.
 <!--
 **Jay-Farrow/Jay-Farrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
