@@ -12,4 +12,4 @@ I'm Jason, a self-taught Data Analyst, Python programmer and SQL enthusiast from
 
 ## Python Projects
 
-My python projects are located in this reposiorty (https://github.com/Jay-Farrow/python-projects)
+My python projects are located in this repository (https://github.com/Jay-Farrow/python-projects)
