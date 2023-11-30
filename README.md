@@ -2,6 +2,16 @@
 <br></br>
 
 I'm Jason, a self-taught Data Analyst, Python programmer and SQL enthusiast from Atlanta, GA.
+
+## About Me
+
+- Motivated college graduate with a Bachelor's of Science in Mathematics Degree.
+- Fascinated with Data Analytics and Mathematics.
+- Passionate about learning, in particular learning new skills involving technology.
+- Knowledgeable on the fundamentals of Data Engineering, Data Analysis, and Python Programming.
+- I'm continuing to learn everyday about new programming, software and technological skills.
+
+
 <!--
 **Jay-Farrow/Jay-Farrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
