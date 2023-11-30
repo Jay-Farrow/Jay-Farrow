@@ -9,3 +9,7 @@ I'm Jason, a self-taught Data Analyst, Python programmer and SQL enthusiast from
 - Passionate about learning, in particular learning new skills involving technology.
 - Knowledgeable on the fundamentals of Data Engineering, Data Analysis, and Python Programming.
 - I'm currently learning more about python programming.
+
+## Python Projects
+
+My python projects are located in this reposiorty (https://github.com/Jay-Farrow/python-projects)
