@@ -13,4 +13,5 @@ I'm Jason, a self-taught Data Analyst, GIS user, Python programmer and SQL enthu
 ## Python Projects
 
 - My python projects are located in this repository (https://github.com/Jay-Farrow/python-projects).
+- My GIS Projects are located in this repository ().
 - My ArcPy GIS scripts are located in this repository ().
