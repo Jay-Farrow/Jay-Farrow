@@ -9,6 +9,7 @@ I'm Jason, a self-taught Data Analyst, GIS user, Python programmer and SQL enthu
 - Passionate about learning, in particular learning new skills involving technology.
 - Knowledgeable on the fundamentals of Data Engineering, Data Analysis, GIS and Python Programming.
 - I'm currently learning more about GIS, and python programming.
+- Seeking Entry-Level GIS Technician Opportunities.
 
 ## Python Projects
 
