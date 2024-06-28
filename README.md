@@ -14,6 +14,7 @@ I'm Jason, a self-taught Data Analyst, GIS user, Python programmer and SQL enthu
 ## Python Projects
 
 - My python projects are located in this repository (https://github.com/Jay-Farrow/python-projects).
+- Random Python Scripts located in this repository (https://github.com/Jay-Farrow/random_python_scripts).
 
 ## GIS Projects
 
